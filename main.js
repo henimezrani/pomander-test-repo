@@ -3,3 +3,5 @@ function test() {
 }
 
 test();
+
+something wrong;
